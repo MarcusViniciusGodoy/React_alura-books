@@ -16,6 +16,37 @@ As técnicas e tecnologias utilizadas pra isso são:
 - `CSS`: estilização da aplicação;
 - `React`: construção de elementos dinâmicos.
 
+### Pré-requisitos
+ Para executar este projeto, é necessário ter:
+ - [Visual Studio Code](https://code.visualstudio.com/)
+
+### Instalação
+ 
+ 1. Clone o repositório:
+    ```bash
+    git clone https://github.com/MarcusViniciusGodoy/React_alura-books.git
+    ```
+ 
+ 2. Acesse o diretório do projeto:
+    ```bash
+    cd movieMaker
+    ```
+ 
+ 3. Abra o projeto no Visual Studio Code:
+    ```bash
+    code .
+    ```
+ 
+ 4. Instale o React no seu Visual Studio Code:
+    ```bash
+    npx create-react-app .
+    ```
+
+ 5. Execute seu projeto React:
+    ```bash
+    npm start
+    ```
+
 # Autor
 Marcus Vinícius de Godoy 
 
